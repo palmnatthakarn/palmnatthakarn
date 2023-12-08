@@ -1,7 +1,9 @@
 # 🙌 Hello World 🌏
-  👋 Hi , i'm Natthakarn kaewsamto🙋‍♀️r                               
-  🌱 I study at RMUTL. Major Computer Engineering ⚙️🖥️👾                                
-  💭 I’m currently learning Data Science, C, C++, C#, Datr, machine learning,IOT🦾📚
+  *👋 Hi , i'm Natthakarn kaewsamto🙋‍♀️
+  * 🌍  I'm based in Chaing Mai
+  * ✉️  You can contact me at [palmnatthakarn@gmail.com](mailto:palmnatthakarn@gmail.com)
+  *🌱 I study at RMUTL. Major Computer Engineering ⚙️🖥️👾                                
+  *💭 I’m currently learning Data Science, C, C++, C#, Datr, machine learning,IOT🦾📚
 <br>
 <br>
 # 🌐 Social 
