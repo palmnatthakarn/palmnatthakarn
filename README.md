@@ -22,7 +22,6 @@
 <br>
 <br>
 # 🌟 Gitnub Status
-[![Github Status](https://github-readme-stats.vercel.app/api?username=palmnatthakarn&count_private=true&theme=onedark&show_icons=true)](https://github.com/palmnatthakarn)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palmnatthakarn&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/palmnatthakarn)
 
