@@ -2,7 +2,6 @@
   * 👋 Hi , i'm Natthakarn kaewsamto🙋‍♀️                 
   * 🌍  I'm based in Chaing Mai                                
   * ✉️  You can contact me at [palmnatthakarn@gmail.com](mailto:palmnatthakarn@gmail.com)                           
-  * 🌱 I study at RMUTL. Major Computer Engineering ⚙️🖥️                               
   * 💭 I’m currently learning Data Science,Dart, machine learning,IOT🦾📚
 <br>
 
