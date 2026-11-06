@@ -1,5 +1,5 @@
-# 🙌 Hello World 🌏
-  * 👋 Hi , i'm Natthakarn kaewsamto🙋‍♀️                 
+# Hello
+  * 👋 Hi , i'm Natthakarn kaewsamto               
   * 🌍  I'm live in Chaing Mai                                
   * ✉️  You can contact me at [palmnatthakarn@gmail.com](mailto:palmnatthakarn@gmail.com)                           
   * 💭 I’m currently learning Data Science,Dart, machine learning,IOT🦾📚
